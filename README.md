@@ -1,7 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20Profile!&animation=fadeIn)
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20Profile!&animation=fadeIn&fontAlignY=45&fontAlign=50
-<!--
+
 **PietroHansel/PietroHansel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
